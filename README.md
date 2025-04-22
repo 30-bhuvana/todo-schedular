@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+##  Technologies Used
+Frontend
+
+Next.js: A React framework that enables server-side rendering and generating static websites.
+
+React: For building interactive user interfaces.
+
+Tailwind CSS: A utility-first CSS framework for rapid UI development.​
+
+Backend
+
+API Routes in Next.js: For handling backend logic and database interactions.
+
+MongoDB: A NoSQL database for storing tasks.
+
+Mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js.​
+
