@@ -36,6 +36,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-100 text-zinc-900">
       <Navbar />
       <div className="max-w-2xl mx-auto bg-white p-6 mt-6 rounded-lg shadow-md">
+      <h1 className="text-3xl font-bold mb-2 text-center text-blue-600">Welcome to ToDo Scheduler!</h1>
         <h1 className="text-2xl font-bold mb-4">Todos for {date}</h1>
         <input 
           type="date" 
